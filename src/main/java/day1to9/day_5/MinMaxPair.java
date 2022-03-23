@@ -1,4 +1,4 @@
-package day_5;
+package day1to9.day_5;
 
 public class MinMaxPair {
     public static void main(String[] args) {

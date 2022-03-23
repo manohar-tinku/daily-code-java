@@ -1,4 +1,4 @@
-package day_3;
+package day1to9.day_3;
 
 import java.util.Stack;
 

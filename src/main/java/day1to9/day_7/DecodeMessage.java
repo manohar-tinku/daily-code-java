@@ -1,4 +1,4 @@
-package day_7;
+package day1to9.day_7;
 
 public class DecodeMessage {
     public static void main(String[] args) {

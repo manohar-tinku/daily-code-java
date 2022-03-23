@@ -1,4 +1,4 @@
-package day_8;
+package day1to9.day_8;
 
 public class UnivalTree {
     public static void main(String[] args) {

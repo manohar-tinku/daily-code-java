@@ -1,4 +1,4 @@
-package day_10;
+package day10to19.day_10;
 
 public class Scheduler {
 
